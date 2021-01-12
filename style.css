@@ -6,3 +6,24 @@ border: 0;
 background-color: white
 ;
 }
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color:#FCEAE8 ;
+    border-radius: 2em;
+
+}
+#subscrib{
+    background-color: #FCEAE8;
+    border-radius: 2em;
+}
+.btn{
+    background-color:#FF3786;
+    color: white;
+}
+h3{
+    color: #FF3786;
+}
+
+
